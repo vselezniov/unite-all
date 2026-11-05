@@ -1,0 +1,1 @@
+The top-level version is standalone code, isolated from the rest of the project where this algorithm originally had to be executed. Meanwhile, the 'old' folder contains the actual production version, maintaining all its original dependencies on that real-world project.
