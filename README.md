@@ -1,0 +1,1 @@
+The main idea behind this algorithm is that all input polygons (which can be completely arbitrary, including those with polygonal holes) are sliced into trapezoids with bases parallel to the OX axis. These trapezoids are then all united in just several passes of a sweep-line.
